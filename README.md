@@ -1,3 +1,5 @@
+<img src="app-512.png" alt="Katherine" width="96" align="right">
+
 # Katherine
 
 **A draft assistant and coach for League of Legends ranked play on Windows.**
