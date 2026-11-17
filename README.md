@@ -1,6 +1,6 @@
 # Katherine: installers
 
-Installers for the Windows app. The source is private.
+Installers for Katherine, your personal assistant and coach for drafting in League of Legends (Windows). The source is private.
 
 Download the latest from [Releases](../../releases/latest).
 
