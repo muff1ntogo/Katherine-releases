@@ -1,4 +1,4 @@
-# Robert: installers
+# Katherine: installers
 
 Installers for the Windows app. The source is private.
 
